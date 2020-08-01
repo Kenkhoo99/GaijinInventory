@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">GaijinInventory</string>
     <string name="login">login</string>
+    <string name="add_staff">Add Staff</string>
+    <string name="view_staff">View Staff</string>
+    <string name="update_staff">Update Staff</string>
+    <string name="delete_staff">Delete Staff</string>
 </resources>

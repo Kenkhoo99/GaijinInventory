@@ -1,5 +1,4 @@
 <resources>
     <string name="app_name">GaijinInventory</string>
-    <string name="username">Username</string>
     <string name="login">login</string>
 </resources>

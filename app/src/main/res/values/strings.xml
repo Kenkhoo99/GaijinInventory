@@ -5,4 +5,20 @@
     <string name="view_staff">View Staff</string>
     <string name="update_staff">Update Staff</string>
     <string name="delete_staff">Delete Staff</string>
+    <string name="staff_details"> Staff Details </string>
+    <string name="contacts">Mobile No.</string>
+    <string name="pay">Basic Pay</string>
+
+    <string-array name="staff_dpt">
+        <item>Stock Manager</item>
+        <item>Delivery Staff</item>
+        <item>Clerk</item>
+        <item> Stock Management Staff</item>
+    </string-array>
+
+    <string name="submit_but">Submit</string>
+    <string name="clear_but">Clear</string>
+
+
+
 </resources>

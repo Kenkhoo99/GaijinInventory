@@ -18,7 +18,8 @@
 
     <string name="submit_but">Submit</string>
     <string name="clear_but">Clear</string>
-
+    <string name="update_but">Update</string>
+    <string name="update_staff_details"> Update Staff Details </string>
 
 
 </resources>

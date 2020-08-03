@@ -23,10 +23,24 @@ public class StaffManagementMainMenu extends AppCompatActivity {
 
            }
        });
+
+        Button button1 = findViewById(R.id.update_staff);
+        button1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                openUpdateStaff();
+
+            }
+        });
     }
 
     public void openAddStaff(){
         Intent intent = new Intent(this,addStaff.class);
+        startActivity(intent);
+    }
+
+    public void openUpdateStaff(){
+        Intent intent = new Intent(this,updateStaff.class);
         startActivity(intent);
     }
 }

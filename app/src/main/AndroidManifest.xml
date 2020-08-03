@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".viewStaff"  android:parentActivityName=".StaffManagementMainMenu"></activity>
+        <activity
+            android:name=".deleteStaff"
+            android:parentActivityName=".StaffManagementMainMenu"></activity>
+        <activity
+            android:name=".viewStaff"
+            android:parentActivityName=".StaffManagementMainMenu" />
         <activity
             android:name=".updateStaff"
             android:parentActivityName=".StaffManagementMainMenu" />
